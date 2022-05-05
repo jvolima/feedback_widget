@@ -1,9 +1,15 @@
-# Feedback widget
-## Aplicação desenvolvida no NLW Return
+# Feedback widget 🔧
+## Aplicação desenvolvida no NLW Return 🚀
 
-## Front-end
-### Tecnologias utilizadas
+## Principais aprendizados 📝
+- Acessibilidade
+- Navegação pelo teclado
+
+## Front-end 💻
+### Tecnologias utilizadas 🔨
 - React
 - Typescript
 - TailwindCSS
 - Headless UI
+
+
