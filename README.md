@@ -7,6 +7,9 @@
 - Envio de emails no backend
 - SOLID
 
+## Deploy da aplicação
+- [Deploy](https://feedback-widget-dbayucwj3-jvolima.vercel.app/)
+
 ## Front-end 💻
 ### Tecnologias utilizadas 🔨
 - React
