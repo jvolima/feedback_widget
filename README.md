@@ -23,5 +23,10 @@
 - Jest
 - Nodemailer
 
+## Mobile 📱
+### Tecnologias utilizadas 🔨
+- React Native
+- Expo
+- Typescript
 
 
