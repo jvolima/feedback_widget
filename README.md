@@ -6,6 +6,8 @@
 - Navegação pelo teclado
 - Envio de emails no backend
 - SOLID
+- Deploy CI/CD
+- Railway e Vercel
 
 ## Deploy da aplicação
 - [Deploy](https://feedback-widget-dbayucwj3-jvolima.vercel.app/)
